@@ -125,7 +125,7 @@
   
     section {
       margin-bottom: 40px;
-      background: #9eedda;
+      background: #ffffff;
       padding: 20px;
       border-radius: 10px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
