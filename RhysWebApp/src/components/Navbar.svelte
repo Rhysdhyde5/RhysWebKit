@@ -14,11 +14,6 @@
   </nav>
   
   <style>
-
-    body {
-      margin: 0;
-      padding: 0;
-    }
   
     .navbar {
       background-color: #38443877;
