@@ -13,46 +13,6 @@
   
   
   <main>
-    <section class="about">
-      <h1>About Me</h1>
-      <p>
-        Computer science graduate who has a keen interest in website and application 
-        development. Wanting to expand my knowledge learnt at university, and 
-        start my computer science career. I am skilled at problem-solving in difficult situations, adapt 
-        well to changes within a project and work well under pressure. I am currently looking to use my experience and 
-        knowledge, and learn new skills in order to take the next step in my career.
-      </p>
-    </section>
-  
-    <section class="experience">
-      <h2>Experience</h2>
-      <div class="job">
-        <h3>Dissertation / University Experience</h3>
-        <p>2021 - 2024</p>
-        <ul>
-          <li>Developed crucial skills throughout my degree and built a large knowledge profile to prepare me for a job within the industry.</li>
-          <li>Dissertation based on researching and creating a working web application on a topic of my choice.</li>
-          <li>Game development.</li>
-          <li>Developed functional apps for mobile devices.</li>
-          <li>Developed knowledge of principles used for building web-based systems.</li>
-          <li>Introduced to artificial intelligence focusing on reasoning and problem-solving as a search for solutions.</li>
-        </ul>
-      </div>
-  
-      <div class="job">
-        <h3>Labourer</h3>
-        <p>Dean Hyde Builders | 2019 - Current</p>
-        <ul>
-          <li>Performed manual labour tasks that require physical strength, stamina, and coordination for a family business.</li>
-          <li>Operated tools and equipment used in general construction.</li>
-          <li>Loaded and unloaded building materials from delivery trucks.</li>
-          <li>Responsible for completing solo jobs to a high standard.</li>
-          <li>Followed and implemented safety protocols.</li>
-          <li>Completed building work such as suspended ceilings, roofing, and carpentry work both as part of a team and solo work.</li>
-        </ul>
-      </div>
-    </section>
-  
     <section class="skills">
       <h2>Key Skills</h2>
       <ul>
